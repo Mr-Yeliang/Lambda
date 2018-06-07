@@ -9,7 +9,7 @@ import com.example.demo.entity.Person;
 import com.example.demo.repository.Integrable;
 import com.example.demo.repository.Predicate;
 
-public class LambdaApplication {
+public class LambdaExample {
 
 	public static void main(String[] args) {
 		// 测试一
